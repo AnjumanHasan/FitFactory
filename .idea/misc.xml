@@ -5,13 +5,18 @@
       <map>
         <entry key="..\:/Users/HP/AndroidStudioProjects/FitFactory/app/src/main/res/layout/activity_bhujangasana.xml" value="0.3328125" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FitFactory/app/src/main/res/layout/activity_gomukhasana.xml" value="0.3328125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/FitFactory/app/src/main/res/layout/activity_meditation.xml" value="0.32916666666666666" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FitFactory/app/src/main/res/layout/activity_paschimottanasana.xml" value="0.3328125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/FitFactory/app/src/main/res/layout/activity_settingsmeditation.xml" value="0.32916666666666666" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FitFactory/app/src/main/res/layout/activity_shavasana.xml" value="0.3328125" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FitFactory/app/src/main/res/layout/activity_tadasana.xml" value="0.3328125" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FitFactory/app/src/main/res/layout/activity_trikonasana.xml" value="0.3328125" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FitFactory/app/src/main/res/layout/activity_yoga_postures.xml" value="0.3328125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/FitFactory/app/src/main/res/layout/dashboard.xml" value="0.3328125" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FitFactory/app/src/main/res/layout/fragment_all_postures.xml" value="0.3328125" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FitFactory/app/src/main/res/layout/fragment_recommendedpostures.xml" value="0.3328125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/FitFactory/app/src/main/res/layout/meditationsettings.xml" value="0.32916666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/FitFactory/app/src/main/res/layout/startpage.xml" value="0.3328125" />
       </map>
     </option>
   </component>
