@@ -1,3 +1,13 @@
+ <h4 align="left">Presentation</h3> 
+        <a href="https://www.canva.com/design/DAEvg4Kxdlg/ooEHqtftFvSZkO9vWDhMjg/view?utm_content=DAEvg4Kxdlg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="_blank" rel="noreferrer"> <img src="https://cdn.svgporn.com/logos/android.svg" alt="c" width="40" height="40"/> </a> 
+
+ <h4 align="left">Video</h3> 
+        <a href="https://www.loom.com/share/345b7618886e4e16949f8d460cafea5a" target="_blank" rel="noreferrer"> <img src="https://cdn.svgporn.com/logos/loom.svg" alt="c" width="40" height="40"/> </a> 
+
+
+
+--
+
 Problem Statement - Pandemic had made us aware of the old saying "Health is wealth". A healthy lifestyle is major aspects of human life be it physically or mentally. Anxiety, depression, unhealty eating habits are quite common these days. Adopting healthy living habits are really important and need to be promoted.
 
 To promote healthy living and to make people track their health in their own manner we have come up with a platfrom -You Fit
